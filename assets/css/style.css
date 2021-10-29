@@ -65,12 +65,16 @@ section{
     padding: 60px;
 }
 /* hero style start */
+/* homepage hero */
+
 .hero{
     background-image: url("../images/hero/bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+
+/* secondary hompage */
 }
 /* hero style end */
 .hero-form{
