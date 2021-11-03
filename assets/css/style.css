@@ -215,6 +215,7 @@ section{
 }
 
 /* Trainers */
+
 .trainer {
 margin: 20px;
 background: #024e76;
@@ -388,7 +389,7 @@ flex: 1;
     
     }
   
-  @media screen and (max-width: 575px) {}
+  @media screen and (max-width: 575px) {
 
     .hero-form button {
       width: 100%;
@@ -415,4 +416,5 @@ flex: 1;
     }
     .contact-form {
         order: 3;
-  }
+    }
+}
