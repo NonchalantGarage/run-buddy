@@ -459,13 +459,8 @@ header h1 {
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
   
-  header nav ul li a {
-    /* and here */
-  }
+
   
-  .hero-cta h2 {
-    /* and here */
-  }
   header nav ul li a:hover {
     background: #fce138;
     color: #024e76;
@@ -482,7 +477,6 @@ header h1 {
     background: #39a6b2;
   }
 
-}
 
 
  
