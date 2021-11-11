@@ -1,4 +1,4 @@
-:root {
+  :root {
   --primary-color: #fce138;
   --secondary-color: #024e76;
   --tertiary-color: #39a6b2;
@@ -111,6 +111,7 @@ section {
 /* HERO STYLES START */
 .hero {
   background-image: url('../images/hero/hero-bg.jpg');
+  box-sizing: 100%;
   background-size: cover;
   display: flex;
   justify-content: center;
